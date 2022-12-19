@@ -8,6 +8,11 @@ with extensive modifications as per Khatiwala, "Fast spin-up of geochemical trac
 and climate models, J. Adv. Model. Earth Sys., 2022, doi: xxx. These modifications enable use of the code 
 on batch HPC systems for computing equilibrium solutions of periodically-forced ocean models. 
 
+Cite as:
+
+Khatiwala, S. (2022). Fast spin-up of geochemical tracers in ocean circulation and climate models, 
+J. Adv. Model. Earth Sys., https://doi.org/xxx.
+
 License:
 
 See LICENSE.txt for licensing information.
