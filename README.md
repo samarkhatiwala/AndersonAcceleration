@@ -1,6 +1,8 @@
 # AndersonAcceleration
 Anderson Acceleration for solving fixed point problems and spin-up of seasonally forced ocean biogeochemical models
 
+Note: I'm not currently updating this repository while I restructure the code. Email me for the latest version.
+
 This repository contains code for solving fixed point problems using Anderson Acceleration. While it can be used for 
 any fixed point problem it was designed to enable use of the code on batch HPC systems for computing equilibrium solutions 
 of periodically-forced ocean models. It is based on the MATLAB routine AndAcc.m originally written by Homer F. Walker 
