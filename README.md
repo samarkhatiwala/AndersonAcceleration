@@ -1,7 +1,7 @@
 # AndersonAcceleration
 Anderson Acceleration for solving fixed point problems and spin-up of seasonally forced ocean biogeochemical models
 
-Note: I'm not currently updating this repository while I restructure the code. Email me for the latest version.
+Note: I'm not currently updating this repository while I restructure the code. Email me for the latest version as well as a python implementation.
 
 This repository contains code for solving fixed point problems using Anderson Acceleration. While it can be used for 
 any fixed point problem it was designed to enable use of the code on batch HPC systems for computing equilibrium solutions 
@@ -13,7 +13,7 @@ tracers in ocean circulation and climate models, J. Adv. Model. Earth Sys., http
 Cite as:
 
 Khatiwala, S. (2022). Fast spin-up of geochemical tracers in ocean circulation and climate models, 
-J. Adv. Model. Earth Sys., https://doi.org/xxx.
+J. Adv. Model. Earth Sys., https://doi.org/10.1029/2022MS003447.
 
 License:
 
