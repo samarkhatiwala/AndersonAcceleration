@@ -10,12 +10,16 @@ of periodically-forced ocean models. It is based on the MATLAB routine AndAcc.m 
 Research Report MS-6-15-50, 10/14/2011) with extensive modifications as per Khatiwala (2022), "Fast spin-up of geochemical 
 tracers in ocean circulation and climate models, J. Adv. Model. Earth Sys., https://doi.org/10.1029/2022MS003447.
 
-Cite as:
+## Cite as
 
-Khatiwala, S. (2022). Fast spin-up of geochemical tracers in ocean circulation and climate models, 
+Cite the software as
+> Khatiwala, S. (2022). samarkhatiwala/AndersonAcceleration: andacc1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17070248
+
+and the following papers as 
+> Khatiwala, S. (2022). Fast spin-up of geochemical tracers in ocean circulation and climate models, 
 J. Adv. Model. Earth Sys., https://doi.org/10.1029/2022MS003447.
 
-Khatiwala, S. (2024). Efficient spin-up of Earth System Models using Sequence Acceleration, Science Advances, https://doi.org/10.1126/sciadv.adn2839
+> Khatiwala, S. (2024). Efficient spin-up of Earth System Models using Sequence Acceleration, Science Advances, https://doi.org/10.1126/sciadv.adn2839
 
 License:
 
