@@ -1,5 +1,3 @@
-https://doi.org/10.5281/zenodo.17070248
-
 # AndersonAcceleration
 Anderson Acceleration for solving fixed point problems and spin-up of seasonally forced ocean biogeochemical models
 
