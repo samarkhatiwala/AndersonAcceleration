@@ -1,0 +1,24 @@
+[project]
+name = "aa4py"
+version = "1.0.0"
+description = "Python software for solving fixed point problems using Anderson Acceleration"
+readme = "README.md"
+authors = [
+           {name = "Samar Khatiwala", email = "samkat6@gmail.com"}, 
+           {name = "Jamie Carr", email = "jammehcarr@gmail.com"}
+          ]
+requires-python = ">=3.9"
+license-files = ["LICENSE.txt"]
+
+dependencies = [
+    "numpy >= 2.0.2",
+    "scipy",
+    "pyioutils",
+]
+
+[project.urls]
+Homepage = "https://github.com/samarkhatiwala/AndersonAcceleration/python/aa4py"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
